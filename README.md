@@ -1,3 +1,5 @@
 # Python
 
-Exercises and code samples while learning Python from OpenEDG Python institute.
+ This repository track exercises and code samples while learning Python from OpenEDG Python institute.
+ 
+ I am also using it to learn the basics of git.
